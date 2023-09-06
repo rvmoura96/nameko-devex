@@ -1,4 +1,4 @@
-name: nameko-devex
+name: nameko-rv
 channels:
 - conda-forge
 dependencies:
